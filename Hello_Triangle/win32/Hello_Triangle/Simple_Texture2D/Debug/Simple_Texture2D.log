@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/5/8 18:35:05。
+     1>项目“E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Simple_Texture2D\Simple_Texture2D.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _CRT_SECURE_NO_WARNINGS /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\..\..\..\Chapter_9\Simple_Texture2D\Simple_Texture2D.c
+         Simple_Texture2D.c
+     1>e:\develop\opengl\opengles3-book-master\opengles3-book-master\chapter_9\simple_texture2d\simple_texture2d.c(136): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Debug\Simple_Texture2D.exe" /INCREMENTAL /NOLOGO libGLESv2.lib libEGL.lib glut.lib glut32.lib zlib.lib libpng16.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Debug\Simple_Texture2D.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Debug\Simple_Texture2D.lib" /MACHINE:X86 Debug\Simple_Texture2D.obj
+         Debug\esShader.obj
+         Debug\esShapes.obj
+         Debug\esTransform.obj
+         Debug\esUtil.obj
+         Debug\esUtil_win32.obj
+         Simple_Texture2D.vcxproj -> E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Debug\Simple_Texture2D.exe
+     1>已完成生成项目“E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Simple_Texture2D\Simple_Texture2D.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.43

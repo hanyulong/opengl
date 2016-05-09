@@ -1,0 +1,36 @@
+﻿生成启动时间为 2016/5/8 0:38:08。
+     1>项目“E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Simple_TextureCubemap\lpng1621\lpng1621\projects\vstudio\zlib\zlib.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D Z_SOLO /Gm- /EHsc /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\zlib.pdb" /FR"Debug\\" /Gd /TC /analyze- /errorReport:prompt "..\..\..\..\zlib-1.2.8\adler32.c" "..\..\..\..\zlib-1.2.8\compress.c" "..\..\..\..\zlib-1.2.8\crc32.c" "..\..\..\..\zlib-1.2.8\deflate.c" "..\..\..\..\zlib-1.2.8\infback.c" "..\..\..\..\zlib-1.2.8\inffast.c" "..\..\..\..\zlib-1.2.8\inflate.c" "..\..\..\..\zlib-1.2.8\inftrees.c" "..\..\..\..\zlib-1.2.8\trees.c" "..\..\..\..\zlib-1.2.8\uncompr.c" "..\..\..\..\zlib-1.2.8\zutil.c"
+         adler32.c
+         compress.c
+         crc32.c
+         deflate.c
+         infback.c
+         inffast.c
+         inflate.c
+         inftrees.c
+         trees.c
+         uncompr.c
+         zutil.c
+         正在生成代码...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Simple_TextureCubemap\lpng1621\lpng1621\projects\vstudio\Debug\zlib.lib" /NOLOGO Debug\adler32.obj
+         Debug\compress.obj
+         Debug\crc32.obj
+         Debug\deflate.obj
+         Debug\infback.obj
+         Debug\inffast.obj
+         Debug\inflate.obj
+         Debug\inftrees.obj
+         Debug\trees.obj
+         Debug\uncompr.obj
+         Debug\zutil.obj
+         zlib.vcxproj -> E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Simple_TextureCubemap\lpng1621\lpng1621\projects\vstudio\Debug\zlib.lib
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\bscmake.exe /nologo /o"E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Simple_TextureCubemap\lpng1621\lpng1621\projects\vstudio\Debug\zlib.bsc" Debug\adler32.sbr Debug\compress.sbr Debug\crc32.sbr Debug\deflate.sbr Debug\infback.sbr Debug\inffast.sbr Debug\inflate.sbr Debug\inftrees.sbr Debug\trees.sbr Debug\uncompr.sbr Debug\zutil.sbr
+     1>已完成生成项目“E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\Simple_TextureCubemap\lpng1621\lpng1621\projects\vstudio\zlib\zlib.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.13

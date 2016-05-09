@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+LIB Debug|Win32|E:\develop\opengl\opengles3-book-master\opengles3-book-master\Chapter_2\Hello_Triangle\win32\Hello_Triangle\|
